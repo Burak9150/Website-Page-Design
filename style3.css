@@ -50,6 +50,9 @@ a{
     color: white;
     font-size: 0.8rem;
 }
+a:visited{
+    color: darkmagenta; 
+}
 
 .section1__sağ,.section1__orta,.section1__sol{
     display: flex;
@@ -105,11 +108,11 @@ a{
     
     width:50%;
 }
-.section2__div1-2{
+/* .section2__div1-2{ */
     /* border: tomato solid; */
     
     /* height: 80%;*/
-} 
+/* }  */
 .section2__div1-2 div{
  height: 8rem;
  width: 100%;
