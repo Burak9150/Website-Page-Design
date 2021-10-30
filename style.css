@@ -50,6 +50,9 @@ a{
     color: white;
     font-size: 0.8rem;
 }
+a:visited{
+    color: darkmagenta; 
+}
 
 .section1__sağ,.section1__orta,.section1__sol{
     display: flex;
