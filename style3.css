@@ -163,7 +163,7 @@ input{
     margin-right: 0.6rem;
     padding-left: 0.4rem;
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
     .container{
         height: 200vh;
     }
@@ -186,9 +186,11 @@ input{
         margin-top: 1rem;
         width: 85%;
         margin: auto;
+        height: 50vh;
+        margin-bottom: 1rem;
     }
     textarea{
-        width: 18.3rem;
+        width: 21.5rem;
     }
     .section3__div1{
         /* justify-content: space-around; */
@@ -199,9 +201,10 @@ input{
     .section3__div2{
         width:60vw ;
         margin: auto;
+        
     }
    button{
-       width: 30vw;
+       width: 20vw;
    }
 }
 /* ------------------------------------------------------------------------------------ */
